@@ -8,7 +8,7 @@ me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [UX/UI - Coding my peer's prototype](#uxui---coding-my-peers-prototype)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -26,8 +26,7 @@ me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
 ## General info
 
-> Coding my classmate's [Haneefa Shaik] prototype
-> (https://github.com/Haneefa-Shaik).
+> Coding my classmate's prototype.
 
 ## Screenshots
 
