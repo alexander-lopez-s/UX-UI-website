@@ -1,6 +1,27 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "WIREFRAME",
+    "wireframe",
+    "Ponomarev",
+    "Lant",
+    "Yodiz",
+    "Zepel",
+    "Excalidraw",
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Haneefa",
+    "Shaik",
+    "Todos",
+    "Cristobal",
+    "Calibri",
+    "socio",
+    "Doorpstraat",
+    "Damme",
+    "Sijsele"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
