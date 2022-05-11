@@ -1,12 +1,14 @@
 # UX/UI - Coding my peer's prototype
 
-In the previous module, I interviewed one of our classmates to determine what her needs were and subsequently found a digital solution. She did the same with me, and at the end, we exchanged Figma prototypes, it is about time to code it!
+In the previous module, I interviewed one of our classmates to determine what
+her needs were and subsequently found a digital solution. She did the same with
+me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
 [UX/UI Repository](https://github.com/Haneefa-Shaik/UX-UI--co-design-week-2)
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [UX/UI - Coding my peer's prototype](#uxui---coding-my-peers-prototype)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -24,12 +26,11 @@ In the previous module, I interviewed one of our classmates to determine what he
 
 ## General info
 
-> Coding my classmate's [Haneefa Shaik] prototype (https://github.com/Haneefa-Shaik).
+> Coding my classmate's prototype.
 
 ## Screenshots
 
 ![Screenshot_2022-05-04_at_21 12 46](https://user-images.githubusercontent.com/97364283/167778387-4ae7216b-5c8f-48b2-9d4b-5caaf64d0d25.png)
-
 
 ## Technologies
 
@@ -53,14 +54,15 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
-- Questionnaire made 
+- Questionnaire made
 - Interview completed
 
 To-do list:
 
 - Defining the user personas, a backlog, and an initial design.
 - Figma design.
-- Discussing the design with [Haneefa Shaik](https://github.com/Haneefa-Shaik) with her construction company design using the Double Diamond approach.
+- Discussing the design with [Haneefa Shaik](https://github.com/Haneefa-Shaik)
+  with her construction company design using the Double Diamond approach.
 - Coding the website.
 - Creating the retrospective
 
