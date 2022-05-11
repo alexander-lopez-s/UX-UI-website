@@ -2,6 +2,8 @@
 
 In the previous module, I interviewed one of our classmates to determine what her needs were and subsequently found a digital solution. She did the same with me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
+[UX/UI Repository](https://github.com/Haneefa-Shaik/UX-UI--co-design-week-2)
+
 ## Table of contents
 
 - [Name of project](#name-of-project)
