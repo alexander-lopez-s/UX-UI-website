@@ -1,4 +1,4 @@
-# UX/UI - Co-Design Your Home Page
+# UX/UI - Coding my peer's prototype
 
 In the previous module, I interviewed one of our classmates to determine what her needs were and subsequently found a digital solution. She did the same with me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
