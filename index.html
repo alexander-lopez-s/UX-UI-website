@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cream Sandwich Bowling Bar</title>
 
-    <link href="../styles/styles.css" rel="stylesheet" />
+    <link href="./styles/styles.css" rel="stylesheet" />
   </head>
 
   <body>
@@ -30,7 +30,7 @@
           </div>
           <div class="logo">
             <img
-              src="../styles/bowling-icon.png"
+              src="./styles/bowling-icon.png"
               height="125px"
               width="130px"
               alt="bowling logo"
@@ -46,6 +46,9 @@
           </div>
           <div class="form">
             <form>
+              <input type="text" value="Your name" />
+              <input type="email" value="your email address" />
+              <br />
               <select name="number-of-guests">
                 <option value="2 guests">2 guests</option>
                 <option value="3 guests">3 guests</option>
@@ -57,8 +60,13 @@
               </select>
               <input type="date" />
               <input type="time" />
-              <button type="submit" value="Reserve your table!">
-                Reserve your table!
+              <br />
+              <button
+                type="submit"
+                value="Reserve your table!"
+                onclick="alert('Congratulations! 🎉 You have successfully reserved your lines!')"
+              >
+                🎳 Reserve your table!
               </button>
             </form>
           </div>
@@ -76,12 +84,13 @@
           <p class="main-text">Ⓒ Cream Sandwich Bowling Bar - 2022</p>
         </div>
         <div class="hours-of-operation">
-          <p class="main-text">Hours-of-operation</p>
+          <p class="main-text">Opening hours</p>
           <br />
           <p>Monday to Friday from 16u until 23u30</p>
           <p>Saturdays and Sundays from 14u until 0u</p>
         </div>
       </div>
     </div>
+    <script src=".js/script.js"></script>
   </body>
 </html>

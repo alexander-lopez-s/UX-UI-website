@@ -20,7 +20,8 @@
     "socio",
     "Doorpstraat",
     "Damme",
-    "Sijsele"
+    "Sijsele",
+    "uxui"
   ],
   "ignorePaths": [
     "node_modules/**",

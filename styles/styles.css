@@ -9,7 +9,7 @@
   flex-direction: column;
   width: 1440px;
   height: 700px;
-  background-image: url(../styles/background.png);
+  background-image: url(./styles/background.png);
   background-size: 1440px 700px;
 }
 
@@ -79,6 +79,67 @@
   font-size: 45px;
   color: rgb(73, 9, 248);
   text-shadow: 3px 3px black;
+}
+
+input[type="email"] {
+  width: 200px;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+}
+
+input[type="text"] {
+  width: 190px;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+}
+
+input[type="date"] {
+  width: 140px;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+}
+
+input[type="time"] {
+  width: 116px;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+}
+
+select {
+  width: 128px;
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+}
+
+button {
+  width: 230px;
+  height: 35px;
+  box-sizing: border-box;
+  background-color: rgb(6, 131, 233);
+  border-radius: 10px;
+  font-size: 18px;
+  border: 2px solid rgb(19, 15, 212);
+  text-transform: uppercase;
+  color: rgb(7, 7, 7);
+}
+
+button:hover {
+  background-color: #fd27fd;
 }
 
 .footer {
