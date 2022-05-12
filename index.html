@@ -40,16 +40,26 @@
       </header>
 
       <section>
-        <div class="booking-section">
-          <div class="booking-text">
+        <div class="booking-section" id="booking-section">
+          <div class="booking-text" id="booking-text">
             <p>Book your lines now!</p>
           </div>
           <div class="form">
             <form>
-              <input type="text" value="Your name" />
-              <input type="email" value="your email address" />
+              <input
+                type="text"
+                placeholder="Your full name"
+                id="text"
+                required
+              />
+              <input
+                type="email"
+                placeholder="your email address"
+                id="email"
+                required
+              />
               <br />
-              <select name="number-of-guests">
+              <select name="number-of-guests" id="number-of-guests">
                 <option value="2 guests">2 guests</option>
                 <option value="3 guests">3 guests</option>
                 <option value="4 guests">4 guests</option>
@@ -58,13 +68,14 @@
                 <option value="7 guests">7 guests</option>
                 <option value="8 guests">8 guests</option>
               </select>
-              <input type="date" />
-              <input type="time" />
+              <input type="date" id="date" required />
+              <input type="time" id="time" required />
               <br />
               <button
+                id="book"
+                class="book"
                 type="submit"
-                value="Reserve your table!"
-                onclick="alert('Congratulations! 🎉 You have successfully reserved your lines!')"
+                onclick="myFunction()"
               >
                 🎳 Reserve your table!
               </button>
@@ -91,6 +102,6 @@
         </div>
       </div>
     </div>
-    <script src=".js/script.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
