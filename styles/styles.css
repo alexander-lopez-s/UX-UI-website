@@ -1,3 +1,5 @@
+/* general parameters */
+
 * {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   padding: 0;
@@ -62,6 +64,8 @@
   border-radius: 10px;
 }
 
+/* booking form styling */
+
 .booking-section {
   display: flex;
   flex-direction: column;
@@ -80,6 +84,8 @@
   color: rgb(73, 9, 248);
   text-shadow: 3px 3px black;
 }
+
+/* styling the input fields */
 
 input[type="email"] {
   width: 200px;
@@ -132,10 +138,10 @@ select {
   box-sizing: border-box;
   background-color: rgb(6, 131, 233);
   border-radius: 10px;
-  font-size: 18px;
+  font-size: 20px;
   border: 2px solid rgb(19, 15, 212);
-  text-transform: uppercase;
   color: rgb(7, 7, 7);
+  cursor: pointer;
 }
 
 .book:hover {
@@ -160,4 +166,28 @@ select {
   text-transform: uppercase;
 }
 
-/***** Pop up ****/
+/* return button styling */
+
+.return-button {
+  display: flex;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.return {
+  margin: auto;
+  display: none; /* button is hidden, JS will invoke it after purchase confirmation */
+  width: 120px;
+  height: 35px;
+  background-color: rgb(8, 210, 224);
+  border-radius: 10px;
+  font-size: 18px;
+  border: 2px solid rgb(60, 59, 109);
+  text-transform: uppercase;
+  color: rgb(7, 7, 7);
+  cursor: pointer;
+}
+
+.return:hover {
+  background-color: #fd27fd;
+}
