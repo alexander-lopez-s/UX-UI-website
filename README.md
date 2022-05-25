@@ -1,17 +1,16 @@
-# UX/UI - Coding my peer's prototype
+# UX/UI - Co-Design Your Home Page
 
-In the previous module, I interviewed one of our classmates to determine what
-her needs were and subsequently found a digital solution. She did the same with
-me, and at the end, we exchanged Figma prototypes, it is about time to code it!
-
-[UX/UI Repository](https://github.com/Haneefa-Shaik/UX-UI--co-design-week-2)
+> In this project, we will interview our teammate and get to know about their
+> needs and find a solution and finally design will be handovered to the
+> teammate.
 
 ## Table of contents
 
-- [UX/UI - Coding my peer's prototype](#uxui---coding-my-peers-prototype)
+- [UX/UI - Co-Design Your Home Page](#uxui---co-design-your-home-page)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
+  - [!Example screenshot)](#)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
@@ -26,11 +25,14 @@ me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 
 ## General info
 
-> Coding my classmate's prototype.
+> Designing for my teammate [Cristobal](https://github.com/cristobal-lopez)
+> according to his requirements.
 
 ## Screenshots
 
-![Screenshot_2022-05-04_at_21 12 46](https://user-images.githubusercontent.com/97364283/167778387-4ae7216b-5c8f-48b2-9d4b-5caaf64d0d25.png)
+## ![Example screenshot](https://github.com/Haneefa-Shaik/UX-UI--co-design-week-2/raw/master/planning/assets/Screenshot%20about%20questionnaire.png))
+
+![Cream sandwich bowling bar](https://github.com/Haneefa-Shaik/UX-UI--co-design-week-2/raw/master/planning/assets/Bowlingbar.jpg)
 
 ## Technologies
 
@@ -38,6 +40,7 @@ me, and at the end, we exchanged Figma prototypes, it is about time to code it!
 - VSC code
 - JavaScript
 - HTML and CSS
+- Figma
 
 ## Setup
 
@@ -54,17 +57,12 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
-- Questionnaire made
-- Interview completed
+- Interview and questionnaire completed.
+- Design completed
 
 To-do list:
 
-- Defining the user personas, a backlog, and an initial design.
-- Figma design.
-- Discussing the design with [Haneefa Shaik](https://github.com/Haneefa-Shaik)
-  with her construction company design using the Double Diamond approach.
-- Coding the website.
-- Creating the retrospective
+- Coding should be done.
 
 ## Status
 
@@ -72,16 +70,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by HackYourFuture.be
+Referring bowling bar templates.
 
 ## Contact
 
-By [Cristobal Lopez](https://github.com/cristobal-lopez)
-
-## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
+By [Haneefa](https://github.com/Haneefa-Shaik)
 
 <!-- a guide to using this repository -->
 
